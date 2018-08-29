@@ -1387,12 +1387,26 @@ body {
   font-style: italic;
 }
 .cid-r22l86s1VV H1 {
-  color: #efefef;
+  color: #ffffff;
   text-align: left;
 }
 .cid-r22l86s1VV H3 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-r22l86s1VV P {
   color: #ffffff;
+  text-align: left;
+}
+.cid-r22C4lZXNX {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-r22C4lZXNX .mbr-iconfont-social {
+  font-size: 32px;
+  color: #cc2952;
+}
+.cid-r22C4lZXNX .social-list a:focus {
+  text-decoration: none;
 }
