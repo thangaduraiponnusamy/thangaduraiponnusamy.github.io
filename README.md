@@ -15,4 +15,4 @@ DevOps Engineer with 9+ year of experience in Build, Deploy & Managing infrastru
   &nbsp; &nbsp;
   <a href="http://thangaduraiponnusamy.gitlab.io/"><img src="https://cdn2.iconfinder.com/data/icons/social-network-round-gloss-shine/512/gitlab.png" width="50" height="50" alt="Profile"></a>
   &nbsp; &nbsp;
-  </p>
+ </p>
